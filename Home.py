@@ -36,6 +36,9 @@ def app():
         st.write(
             "**请使用左侧的导航开始你的数据之旅吧！**"
         )
+        url = "https://github.com/ChinaFakeOrange/DataER-EasyDataAnalysis"
+        # st.write("check out this [link](%s)" % url)
+        st.markdown("喜欢的话请点击这里！联系方式nuozhou98@gmail.com [link](%s)" % url)
 
     # ---- WHAT I DO ----
     with st.container():
