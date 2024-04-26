@@ -38,7 +38,7 @@ def app():
         )
         url = "https://github.com/ChinaFakeOrange/DataER-EasyDataAnalysis"
         # st.write("check out this [link](%s)" % url)
-        st.markdown("喜欢的话请点击这里！联系方式nuozhou98@gmail.com [link](%s)" % url)
+        st.markdown("喜欢的话请点击这里！[link](%s)" % url)
 
     # ---- WHAT I DO ----
     with st.container():
