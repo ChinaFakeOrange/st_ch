@@ -46,7 +46,7 @@ def app():
         left_column, right_column = st.columns(2)
 
         contact_form = """
-               <form action="https://formsubmit.co/xxxx@yourmail.com>" method="POST">
+               <form action="https://formsubmit.co/nuozhou98@gmail.com>" method="POST">
                    <input type="hidden" name="_captcha" value="false">
                    <input type="text" name="name" placeholder="姓名" required>
                    <input type="email" name="email" placeholder="手机 or 邮箱" required>
